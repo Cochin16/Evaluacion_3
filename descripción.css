@@ -1,0 +1,129 @@
+/*imagen*/
+.foto{
+    width: 37.5rem;
+    height: 24rem;
+}
+/*Circulos*/
+.circulos_grises{
+    display: flex;
+    flex-direction: row;
+
+}
+.gris{
+    border-radius: 8rem;
+    margin-left: 16rem;
+    margin-top: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+ background-color: gray;
+}
+.gray{
+    border-radius: 8rem;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    background-color: rgb(209, 202, 202);
+}
+.griss{
+    border-radius: 8rem;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    background-color: rgb(221, 221, 216);
+}
+
+.texto_info{
+    font-size: large;
+    margin-top: 1.5rem;
+  margin-left: 1rem;
+}
+.texto_pequeño{
+    color: rgb(230, 223, 223);
+    font-style: oblique;
+    font-family: cursive;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+/* Botones */
+.Juan{
+ display: flex;
+ flex-direction: row;
+}
+.para_like{
+
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+    width: 10rem;
+    height: 3.5rem;
+
+ 
+ display: flex;
+ flex-direction: row;
+}
+.comentarios{
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+    width: 10rem;
+    height:3.5rem;
+ 
+
+ display: flex;
+ flex-direction: row;
+
+}
+
+.pulgar{
+    margin-left: 0.5rem;
+    margin-top: 0.7rem;
+    width: 2rem;
+    height: 2rem;
+}
+.like{
+ margin-top: 0.8rem;
+ margin-left: 2rem;
+ 
+}
+
+.cajita_coment{
+    margin-left: 0.5rem;
+    margin-top: 0.7rem;
+    width: 2rem;
+    height: 2rem;
+}
+.coment{
+    margin-top: 0.8rem;
+    margin-left: 2rem;
+}
+
+.coment:hover{
+    transition: 0.5s;
+    background-color: #0DA697;
+    width: 12rem;
+}
+.like:hover{
+    transition: 0.5s;
+    background-color: #0DA697;
+    width: 12rem;
+}
+.tex{
+    line-height: 1.5rem;
+    letter-spacing: 0.1rem;
+    font-family: sans-serif;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    color: black;
+    margin-top: 1rem;
+    text-align: justify;
+}
+.tex2{
+    line-height: 1.5rem;
+    letter-spacing: 0.1rem;
+    font-family: sans-serif;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    color: black;
+    margin-top: 1rem;
+    text-align: justify;
+}

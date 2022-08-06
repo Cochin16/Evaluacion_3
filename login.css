@@ -1,0 +1,68 @@
+.foto{
+    width: auto;
+    height: auto;
+    margin-left: 12rem; 
+    margin-right: 12rem;
+    margin-top: 8rem;
+
+}
+img{
+    border-radius: 6rem;
+    width: 12rem;
+    height: 12rem;
+}
+.uno{
+    
+    margin-top: 1rem;
+    margin-left: 5rem;
+   
+    background-color: gray;
+    width: 25rem;
+    height: 1rem;
+    border-radius: 2rem;
+}
+.usuario{
+
+    margin-top: 7rem;
+    margin-left: 5.5rem;
+    color: gray;
+    font-size: medium;
+}
+.dos{
+    
+    margin-top: 1rem;
+    margin-left: 5rem;
+   
+    background-color: gray;
+    width: 25rem;
+    height: 1rem;
+    border-radius: 2rem;
+}
+.contraseña{
+    margin-top: 7rem;
+    margin-left: 5.5rem;
+
+    color: gray;
+    font-size: medium;
+}
+.contraseña_olvidada{
+
+    margin-top: 2rem;
+    margin-left: 20rem;
+    
+    color: black;
+    font-size: small;  
+}
+.boton{
+    
+    text-decoration: none;
+    display: block;
+    width: 12rem;
+    height: 5rem;
+    border-radius: 3px;
+    background-color: gray;
+    color: #fff;
+    font-size: 3rem;
+    margin-right: auto;
+    border-top: 3rem;
+}

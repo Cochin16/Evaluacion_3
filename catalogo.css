@@ -1,0 +1,118 @@
+.explorar{
+    background-color: gray;
+    width: 37.5rem;
+    height: 3.5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+.boton{
+   color: black; 
+   font-size: large;
+   margin: 0.5rem;
+   margin-left: 14rem;
+}
+.alas2{
+    color: black; 
+    font-size: large;
+    margin: 0.5rem;
+   margin-left: 8rem;
+     
+}
+.link_descripción{
+    text-decoration: none;
+}
+.boton:hover{
+    transition: 0.5s;
+    color: #fff;
+    
+}
+/*parte1*/
+.sección1{
+  
+   width: 37.5rem ;
+   height: 18rem;
+
+   display: flex;
+   flex-direction: row;
+}
+.imagen1{
+  max-width: 15rem;
+  max-height: 17rem;
+  margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.texto1{
+  margin-left: 1rem;
+  margin-top: 1rem;
+
+}
+.arreglo{
+  text-decoration: none;
+  color: black
+}
+/*parte2*/
+.sección2{
+    
+    width: 37.5rem;
+    height: 18rem;
+
+    display: flex;
+   flex-direction: row;
+}
+.imagen2{
+    max-width: 15rem;
+  max-height: 17rem;
+  margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.texto2{
+    margin-left: 1rem;
+  margin-top: 1rem;
+}
+.sin{
+  text-decoration: none;
+  color: black
+}
+/*parte3*/
+.sección3{
+    
+    width: 37.5rem;
+    height: 18rem;
+
+    display: flex;
+    flex-direction: row;
+}
+.imagen3{
+    max-width: 15rem;
+  max-height: 17rem;
+  margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.texto3{
+    margin-left: 1rem;
+  margin-top: 1rem;
+}
+.diseño_de{
+  text-decoration: none;
+  color: black
+}
+/*caja4*/
+.sección4{
+   
+    width: 37.5rem;
+    height: 18rem;
+
+    display: flex;
+    flex-direction: row;
+}
+.imagen4{
+    max-width: 15rem;
+    max-height: 17rem;
+    margin: 0.5rem 0rem 0rem 0.5rem;
+}
+.texto4{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+.textojeje{
+  text-decoration: none;
+  color: black
+}
